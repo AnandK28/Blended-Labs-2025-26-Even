@@ -66,6 +66,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Anand K (212224040022)
 **Course:** Introduction to Cloud Computing  
 
